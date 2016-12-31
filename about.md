@@ -2,14 +2,16 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Mình là Hoàng. Học công nghệ thông tin ở HCMUS.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+Mình thích làm việc với python. 
+Đang quan tâm đến Data Mining và Machine Learning, mình cũng từng làm về Data Engineering và Android. 
+Nếu chọn 3 ngôn ngữ tốt với bản thân mình nhất mình sẽ chọn: Python, Java, JavaScript.
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[vnmhoang@outlook.com.vn](mailto:vnmhoang@outlook.com.vn)
