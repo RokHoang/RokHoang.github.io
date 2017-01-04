@@ -1,4 +1,8 @@
-
+---
+layout: post
+title: The First OCR
+published: true
+---
 
 ```python
 import numpy as np
