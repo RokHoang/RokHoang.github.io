@@ -1,3 +1,8 @@
+---
+layout: post
+title: The First OCR
+published: true
+---
 ```{.python .input  n=3}
 import numpy as np
 import cPickle
